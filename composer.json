@@ -1,0 +1,13 @@
+{
+    "name": "samco/aadhartruecopy",
+    "description": "eSign functionality provided by 3rd party vendor TrueCopy",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "samco\\aadhartruecopy\\": "src/"
+        }
+    },
+    "require": {}
+}
