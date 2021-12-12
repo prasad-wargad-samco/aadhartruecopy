@@ -1,7 +1,7 @@
 <?php
 
 namespace Samco\Aadhartruecopy;
-use App\Models\ESignVendorsMaster;
+use Samco\Aadharkhosla\Models\ESignVendorsMaster;
 
 class Aadhartruecopy{
 	/* Function to upload a file to TRUECOPY and get the response either SUCCESS/FAILS.
