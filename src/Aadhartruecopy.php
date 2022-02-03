@@ -56,7 +56,7 @@ class Aadhartruecopy{
 		$data['signpxy'] = $signpxy;
 		$data['description'] = $description;
 		$data['filename'] = $filename;
-		// $data['signmode'] = 2;	// signmode equals 2 means provide signature in image format on document
+		$data['signmode'] = 2;	// signmode equals 2 means provide signature in image format on document
 		$data['uploadfile'] = $file;
 
 		$headers    = array();
